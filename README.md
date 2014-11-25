@@ -11,11 +11,11 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 ##### If you want to contribute with this project, download the template and [tweet me](http://twitter.com/marcelomarfil) a link of your icons. With your permission, I can periodically include them here, with due credits, of course.
 
 
-**First Batch**
+### First Batch
 
 Safari, Mail, Messages, Slack, Sketch, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password, System Preferences
 
-**More from Contributors**
+### More from Contributors
 
 ![Matt Fletcher](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_fletcher_1.png)
 
