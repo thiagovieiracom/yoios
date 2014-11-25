@@ -22,7 +22,7 @@ Safari, Mail, Messages, Slack, Sketch, Final Cut Pro X, Framer Studio, Espresso,
 
 ![Matt Fletcher](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_fletcher_1.png)
 
-[@matt_fletcher](http://twitter.com/matt_fletcher)
+Day One, Evernote and Maps by [@matt_fletcher](http://twitter.com/matt_fletcher)
 
 ---
 
