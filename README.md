@@ -20,9 +20,22 @@ Safari, Mail, Messages, Slack, Sketch, Final Cut Pro X, Framer Studio, Espresso,
 
 ### More from Contributors
 
-![Matt Fletcher](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_fletcher_1.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_dayone.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_evernote.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_maps.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_omnifocus.png)
 
-Day One, Evernote and Maps by [@matt_fletcher](http://twitter.com/matt_fletcher)
+
+Day One, Evernote, Maps and OmniFocus by [@matt_fletcher](http://twitter.com/matt_fletcher)
+
+<br /><br /><br />
+
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamin_sublime.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamin_terminal.png) 
+
+Sublime Text and Terminal by [@bdauton](http://twitter.com/bdauton)
+
+<br /><br /><br />
+
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/felipe_twitter.png)
+
+Twitter by [@fellipea_silva](http://twitter.com/fellipea_silva)
 
 ---
 
