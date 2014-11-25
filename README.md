@@ -13,19 +13,13 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 **First Batch**
 
-- Safari
-- Mail
-- Messages
-- Slack
-- Sketch
-- Final Cut Pro X
-- Framer Studio
-- Espresso
-- Xcode
-- GitHub
-- Rdio
-- 1Password
-- System Preferences
+Safari, Mail, Messages, Slack, Sketch, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password, System Preferences
+
+**More from Contributors**
+
+![Matt Fletcher](https://raw.githubusercontent.com/mmarfil/yoios/master/previews/matt_fletcher_1.png)
+[@matt_fletcher](http://twitter.com/matt_fletcher)
+
 
 ### Notes
 
