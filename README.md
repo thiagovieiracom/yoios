@@ -18,6 +18,7 @@ Safari, Mail, Messages, Slack, Sketch, Final Cut Pro X, Framer Studio, Espresso,
 **More from Contributors**
 
 ![Matt Fletcher](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_fletcher_1.png)
+
 [@matt_fletcher](http://twitter.com/matt_fletcher)
 
 
