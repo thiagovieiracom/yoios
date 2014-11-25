@@ -1,5 +1,3 @@
-![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/preview.png)
-
 ### iOS 8 inspired icons for OS X Yosemite.
 
 Due to demand on Twitter, I’ve decided to share these icons I made for personal use.
@@ -13,6 +11,8 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 ---
 
 ### First Batch
+
+![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/preview.png)
 
 Safari, Mail, Messages, Slack, Sketch, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password, System Preferences
 
