@@ -25,13 +25,13 @@ Safari, Mail, Messages, Slack, Sketch, Final Cut Pro X, Framer Studio, Espresso,
 
 Day One, Evernote, Maps and OmniFocus by [@matt_fletcher](http://twitter.com/matt_fletcher)
 
-<br /><br /><br />
+<br /><br />
 
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamin_sublime.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamin_terminal.png) 
 
 Sublime Text and Terminal by [@bdauton](http://twitter.com/bdauton)
 
-<br /><br /><br />
+<br /><br />
 
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/felipe_twitter.png)
 
