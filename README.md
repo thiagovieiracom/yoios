@@ -1,4 +1,6 @@
-### iOS 8 inspired icons for OS X Yosemite.
+![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/preview.png)
+
+### Yoios: iOS 8 inspired icons for OS X Yosemite.
 
 Due to demand on Twitter, I’ve decided to share these icons I made for personal use.
 
@@ -12,9 +14,9 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ### Icons
 
-![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/preview.png)
+![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/yoios_preview.png)
 
-Safari, Mail, Messages, Slack, Sketch, Adobe Photoshop, Adobe Illustrator, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password and System Preferences, 
+Safari, Mail, Messages, Slack, Sketch, Adobe Photoshop, Adobe Illustrator, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password and System Preferences.
 
 ---
 
