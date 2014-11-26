@@ -14,7 +14,7 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ### Icons
 
-![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/yoios_preview.png)
+![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/yoios_preview.png)
 
 Safari, Mail, Messages, Slack, Sketch, Adobe Photoshop, Adobe Illustrator, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password and System Preferences.
 
