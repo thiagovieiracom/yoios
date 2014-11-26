@@ -10,20 +10,20 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ---
 
-### First Batch
+### Icons
 
 ![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/preview.png)
 
-Safari, Mail, Messages, Slack, Sketch, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password, System Preferences
+Safari, Mail, Messages, Slack, Sketch, Adobe Photoshop, Adobe Illustrator, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password and System Preferences, 
 
 ---
 
 ### More from Contributors
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_dayone.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_evernote.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_maps.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_omnifocus.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matt_preview.png)
 
 
-Day One, Evernote, Maps and OmniFocus by [@matt_fletcher](http://twitter.com/matt_fletcher)
+Day One, Maps, Pocket and Evernote by [@matt_fletcher](http://twitter.com/matt_fletcher)
 
 <br /><br />
 
@@ -36,6 +36,18 @@ Sublime Text and Terminal by [@bdauton](http://twitter.com/bdauton)
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/felipe_twitter.png)
 
 Twitter by [@fellipea_silva](http://twitter.com/fellipea_silva)
+
+---
+
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/ryan_clear.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/ryan_eclipse.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/ryan_photoshop.png) ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/ryan_sourcetree.png)
+
+Clear, Eclipse, Adobe Photoshop, SourceTree by [@ryanb93](http://twitter.com/ryanb93)
+
+---
+
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/thiago_skype.png)
+
+Skype by [@thiagovieiracom](http://twitter.com/thiagovieiracom)
 
 ---
 
