@@ -8,7 +8,7 @@ Keep in mind they haven’t been optimized for all sizes, my goal was pretty muc
 
 I’ll be adding more in the upcoming weeks/months, but feel free to download the template and play around with that. Please understand I’m not taking any requests at this point, I have a mouth to feed. :)
 
-##### If you want to contribute with this project, download the template and [tweet me](http://twitter.com/marcelomarfil) a link of your icons. With your permission, I can periodically include them here, with due credits, of course.
+##### If you want to contribute with this project, download the template, make a Pull Request or [tweet me](http://twitter.com/marcelomarfil) a link of your icons. With your permission, I can periodically include them here, with due credits, of course.
 
 ---
 
