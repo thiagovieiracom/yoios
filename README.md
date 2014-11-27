@@ -14,7 +14,7 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ### Icons
 
-![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview.png)
+![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview_1127.png)
 
 Safari, Mail, Messages, Slack, Sketch, Adobe Photoshop, Adobe Illustrator, Final Cut Pro X, Framer Studio, Espresso, Xcode, GitHub, Rdio, 1Password and System Preferences.
 
@@ -22,49 +22,49 @@ Safari, Mail, Messages, Slack, Sketch, Adobe Photoshop, Adobe Illustrator, Final
 
 ### More from Contributors
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/arthurpereira_preview.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/arthurpereira_preview_1127.png)
 
 Finder, Firefox and Tweetbot by [@anonymous_si](http://twitter.com/anonymous_si)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamindauton_preview.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamindauton_preview_1127.png)
 
 Chrome, CodeKit, iMovie, iPhoto, Numbers, Pages, SimpleNote, Sublime Text, Terminal and VLC by [@bdauton](http://twitter.com/bdauton)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/felipesilva_preview.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/felipesilva_preview_1127.png)
 
 Twitter by [@fellipea_silva](http://twitter.com/fellipea_silva)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matiasmelian_preview.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/matiasmelian_preview_1127.png)
 
 Instapaper (ReadKit) by [@iMAMDev](http://twitter.com/iMAMDev)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1127.png)
 
 Day One, Evernote, iA Writer, Maps, OmniFocus, Pocket and Reeder by [@matt_fletcher](http://twitter.com/matt_fletcher)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/rayps_preview.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/rayps_preview_1127.png)
 
 Firezilla, iTerm, OmniFocus, Safari, Spotify and Wunderlist by [@raypS_](http://twitter.com/rayps_)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/ryanburke_preview.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/ryanburke_preview_1127.png)
 
 Clear, Eclipse, Photoshop and SourceTree by [@ryanb93](http://twitter.com/ryanb93)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/thiagovieira_preview.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/thiagovieira_preview_1127.png)
 
 Fireworks, Photoshop, Dropbox, Google Drive, Nike+ and SourceTree by [@thiagovieiracom](https://twitter.com/thiagovieiracom)
 
