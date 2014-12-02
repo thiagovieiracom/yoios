@@ -64,7 +64,7 @@ Clear, Eclipse, Photoshop and SourceTree by [@ryanb93](http://twitter.com/ryanb9
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/thiagovieira_preview_1127.png)
+![](https://raw.githubusercontent.com/thiagovieiracom/yoios/master/Previews/thiagovieira_preview_1127.png)
 
 Fireworks, Photoshop, Dropbox, Google Drive, Nike+ and SourceTree by [@thiagovieiracom](https://twitter.com/thiagovieiracom)
 
